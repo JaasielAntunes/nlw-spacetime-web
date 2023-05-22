@@ -1,5 +1,5 @@
 # Spacetime Frontend <br>
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/JaasielAntunes/nlw-spacetime-frontend/blob/master/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/JaasielAntunes/nlw-spacetime-web/blob/master/LICENSE)
 <br> <br>
 
 # Sobre o projeto:
