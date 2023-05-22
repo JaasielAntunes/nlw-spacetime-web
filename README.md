@@ -36,15 +36,14 @@ $ npm run dev
 
 ## :camera_flash: Screenshots:
 <div>
-    <img width="200" height="400" src="images/login.jpg">
-    <img width="200" height="400" src="images/cadastro.jpg">
+    <img width="400" height="300" src="screenshots/img1.png">
+    <img width="400" height="300" src="screenshots/img2.png">
 </div>
 
 <br>
 
 <div>
-    <img width="200" height="400" src="images/home.jpg">
-    <img width="200" height="400" src="images/produtos.jpg">
+    <img width="400" height="300" src="screenshots/img3.png">
 </div>
 
 ## :email: Contato:
